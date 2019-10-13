@@ -11,7 +11,6 @@ To install :
 To compile : 
 `$ make SOM_MNIST`
 
-to exectute :
+to execute :
 `$ ./SOM_MNIST train-images.idx3-ubyte`
-(that use the ubyte file with 60.000 datas)
-over than 20min duration
+(It uses the ubyte file with 60.000 data - expect 20min total duration of the process)
