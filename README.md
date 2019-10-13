@@ -13,4 +13,4 @@ To compile :
 
 to execute :
 `$ ./SOM_MNIST train-images.idx3-ubyte`
-(It uses the ubyte file with 60.000 data - expect 20min total duration of the process)
+(It uses a ubyte file with 60.000 image data - expect 20min total duration of the process)
